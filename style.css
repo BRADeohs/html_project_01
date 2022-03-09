@@ -1,0 +1,8 @@
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1224;
+  height: 1584;
+  background: url("https://raw.githubusercontent.com/BRADeohs/html_project_01/main/stamp.svg") repeat;
+}
